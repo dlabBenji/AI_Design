@@ -2,7 +2,7 @@
 
 ## Project Overview
 - This project is a self-study website for the `AI Design` class at `Way Maker School`.
-- The current implementation lives in `visual-design-curriculum-fixed.html` and teaches AI Design through `the 9 principles of visual design`.
+- The current implementation lives in `index.html` and teaches AI Design through `the 9 principles of visual design`.
 - The site is not a generic course catalog. It is a guided learning experience that helps students `make first, discover principles, and reflect on decisions`.
 
 ## Core Educational Position
